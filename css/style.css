@@ -1,0 +1,9 @@
+.SlotImages {
+    display: grid | inline-grid;
+    width: 50%;
+  }
+
+  .Start{
+    display: grid;
+    width: 50%;
+  }
